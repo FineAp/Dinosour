@@ -40,4 +40,6 @@ KOREA BLOG: https://blog.naver.com/dlgidgkr/223203200171
 
 BUILD LINK: https://drive.google.com/file/d/1xLTXoJMFY29MEjmbQsB23BdkEQjKDNMA/view?usp=drive_link
 
+Play Video: https://youtu.be/IdjGGdyIhL4
+
 ![1](https://github.com/FineAp/ZombieSurvival/assets/143973266/5dee000b-b75b-4c20-b84c-d27323a7199a)
